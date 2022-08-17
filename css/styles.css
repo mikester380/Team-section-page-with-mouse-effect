@@ -81,6 +81,17 @@ body {
   transform: translate(100%, 0) rotate(90deg);
 }
 
+.attribution {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.attribution a:link,
+a:visited {
+  text-decoration: none;
+  color: blue;
+}
+
 .mouse-effect {
   width: 70px;
   height: 70px;
